@@ -1,4 +1,4 @@
-<!--MYCC-PORTFOLIO-META:%7B%22v%22%3A3%2C%22github%22%3A%22Damien%20Englert%22%2C%22name%22%3A%22Damien%20Englert%22%2C%22email%22%3A%22dingo1991%40gmail.com%22%2C%22linkedin%22%3A%22%22%2C%22resume%22%3A%22%22%2C%22bio%22%3A%22IT%20Student%20passionate%20about%20bridging%20the%20gap%20between%20complex%20technology%20and%20everyday%20users%2C%20currently%20seeking%20an%20entry-level%20IT%20role.%22%2C%22themeIdx%22%3A4%2C%22skills%22%3A%5B%22PC%20Assembly%22%2C%22Troubleshooting%22%2C%22Operating%20Systems%22%2C%22Computer%20Hardware%22%5D%2C%22headlines%22%3A%5B%22IT%20Professional%22%2C%22Network%20Engineer%22%2C%22Cloud%20Architect%22%5D%2C%22customHeadlines%22%3A%5B%5D%2C%22customSkills%22%3A%5B%5D%2C%22certs%22%3A%5B%5D%2C%22customLabs%22%3A%7B%221%22%3A%5B%7B%22name%22%3A%22Modify%20a%20Virtual%20Machine%22%2C%22desc%22%3A%22learned%20how%20to%20modify%20and%20improve%20through%20a%20virtual%20lab%22%2C%22link%22%3A%22%22%2C%22status%22%3A%22pending%22%7D%5D%2C%222%22%3A%5B%5D%2C%223%22%3A%5B%5D%2C%224%22%3A%5B%5D%2C%225%22%3A%5B%5D%2C%226%22%3A%5B%5D%7D%7D-->
+<!--MYCC-PORTFOLIO-META:%7B%22v%22%3A3%2C%22github%22%3A%22Damien%20Englert%22%2C%22name%22%3A%22Damien%20Englert%22%2C%22email%22%3A%22dingo1991%40gmail.com%22%2C%22linkedin%22%3A%22%22%2C%22resume%22%3A%22%22%2C%22bio%22%3A%22IT%20Student%20passionate%20about%20bridging%20the%20gap%20between%20complex%20technology%20and%20everyday%20users%2C%20currently%20seeking%20an%20entry-level%20IT%20role.%22%2C%22themeIdx%22%3A4%2C%22skills%22%3A%5B%22Computer%20Hardware%22%2C%22PC%20Assembly%22%2C%22Troubleshooting%22%2C%22Operating%20Systems%22%5D%2C%22headlines%22%3A%5B%5D%2C%22customHeadlines%22%3A%5B%5D%2C%22customSkills%22%3A%5B%5D%2C%22certs%22%3A%5B%5D%2C%22customLabs%22%3A%7B%221%22%3A%5B%7B%22name%22%3A%22Modify%20a%20Virtual%20Machine%22%2C%22desc%22%3A%22Learned%20how%20to%20update%20and%20modify%20a%20computer%20with%20a%20virtual%20AI%20lab%22%2C%22link%22%3A%22%22%2C%22status%22%3A%22pending%22%7D%5D%2C%222%22%3A%5B%5D%2C%223%22%3A%5B%5D%2C%224%22%3A%5B%5D%2C%225%22%3A%5B%5D%2C%226%22%3A%5B%5D%7D%7D-->
 
 <div align="center">
 
@@ -8,7 +8,7 @@
 
 **Damien Englert**
 
-*IT Professional*
+*ITSA Student*
 
 [![GITHUB](https://img.shields.io/badge/GITHUB-%40Damien Englert-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Damien Englert) [![EMAIL](https://img.shields.io/badge/EMAIL-CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dingo1991@gmail.com)
 
@@ -35,7 +35,7 @@ IT Student passionate about bridging the gap between complex technology and ever
 
 | Lab / Project | Description | Status | Link |
 |---|---|---|---|
-| Modify a Virtual Machine | learned how to modify and improve through a virtual lab | ⏳ Pending | — |
+| Modify a Virtual Machine | Learned how to update and modify a computer with a virtual AI lab | ⏳ Pending | — |
 
 </details>
 
